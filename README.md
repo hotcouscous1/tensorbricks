@@ -141,7 +141,7 @@ TensorBricks' own-trained checkpoints will be released in the near future.
 
 ## What's New
 ### Ver. 1.0
-* Mar 4, 2022
+* Mar 7, 2022
 * Start Uploading
 
 ## License
