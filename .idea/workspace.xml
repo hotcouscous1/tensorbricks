@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad039383-d788-4ec9-8d88-ae69100f3285" name="Default Changelist" comment="" />
+    <list default="true" id="ad039383-d788-4ec9-8d88-ae69100f3285" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backbone/feature_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/backbone/feature_extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fpn/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/fpn/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head/detection/anchor_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/head/detection/anchor_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/detection/retinanet.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/detection/retinanet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/detection/ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/detection/ssd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/detection/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/detection/yolo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="21nZMl57GhwUoOOdrMRF0a1kmbJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
@@ -51,18 +65,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="352" y="72" key="SettingsEditor" timestamp="1638578810409">
+    <state x="588" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1648024000527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="72" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1638578810409" />
-    <state x="588" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1646614421439">
+    <state x="588" y="296" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648024000527" />
+    <state x="511" y="143" width="898" height="754" key="find.popup" timestamp="1648023540935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="588" y="296" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1646614421439" />
-    <state x="511" y="143" width="898" height="754" key="find.popup" timestamp="1646614559623">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="511" y="143" width="898" height="754" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1646614559623" />
+    <state x="511" y="143" width="898" height="754" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1648023540935" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1643941737258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

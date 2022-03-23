@@ -6,7 +6,7 @@ class AnchorMaker(object):
     __version__ = 1.0
     __date__ = Mar 7, 2022
 
-    Created by hot-couscous.
+    Created by hotcouscous1.
 
     This module is to generate anchors supporting all series of detection models.
 

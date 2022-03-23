@@ -6,7 +6,7 @@ class Downsampler_Conv(nn.Module):
     __version__ = 1.0
     __date__ = Mar 7, 2022
 
-    Created by hot-couscous.
+    Created by hotcouscous1.
 
     This module is to adjust padding to get a desired feature size from the given size,
     and downsample a feature by nn.Conv2d.
@@ -51,7 +51,7 @@ class Downsampler_Pool(nn.Module):
     __version__ = 1.0
     __date__ = Mar 7, 2022
 
-    Created by hot-couscous.
+    Created by hotcouscous1.
 
     This module is created to adjust padding to get a desired feature size from the given size,
     and downsample a feature by nn.Maxpool2d or nn.AvgPool2d.
@@ -103,7 +103,7 @@ class FeatureFusion(nn.Module):
     __version__ = 1.0
     __date__ = Mar 7, 2022
 
-    Created by hotcouscous.
+    Created by hotcouscous1.
 
     This module is to fuse features in different modes.
 

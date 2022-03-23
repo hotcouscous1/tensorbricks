@@ -15,7 +15,7 @@ class Yolo_Frame(nn.Module):
     __version__ = 1.0
     __date__ = Mar 7, 2022
 
-    Created by hot-couscous.
+    Created by hotcouscous1.
 
     This module is a framework for all models belonging to the Yolo series.
 

@@ -6,7 +6,7 @@ class FeatureExtractor(nn.Module):
     __version__ = 1.0
     __date__ = Mar 7, 2022
 
-    Created by hotcouscous.
+    Created by hotcouscous1.
 
     This module is to extract features from specific stages, blocks or layers,
     instead of adding another forward-method to existing backbone module.
