@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad039383-d788-4ec9-8d88-ae69100f3285" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backbone/feature_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/backbone/feature_extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fpn/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/fpn/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head/detection/anchor_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/head/detection/anchor_maker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/detection/retinanet.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/detection/retinanet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/detection/ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/detection/ssd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/detection/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/detection/yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/new_model/efficient_yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/new_model/efficient_yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/new_model/retinanet_res2net_pan.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/new_model/retinanet_res2net_pan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/new_model/ssdlite_rexnet_bifpn.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/new_model/ssdlite_rexnet_bifpn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,10 +61,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1648024000527">
+    <state x="588" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1648036094405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="588" y="296" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648024000527" />
+    <state x="588" y="296" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648036094405" />
     <state x="511" y="143" width="898" height="754" key="find.popup" timestamp="1648023540935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

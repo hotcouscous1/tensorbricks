@@ -4,7 +4,6 @@ from model.detection.ssd import *
 
 
 class SSDLite_ReXNet_BiFPN(SSD_Frame):
-
     """
     __version__ = 1.1
     __date__ = Mar 23, 2022
@@ -50,3 +49,4 @@ class SSDLite_ReXNet_BiFPN(SSD_Frame):
             load_pretrained(self, 'ssdlite_rexnet_bifpn')
         if finetuning:
             load_pretrained(self.backbone, 'rexnet_backbone')
+

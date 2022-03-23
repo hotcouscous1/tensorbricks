@@ -66,9 +66,7 @@ class New_Predictor(nn.Module):
 
 
 
-
 class New_Head(nn.Module):
-
     """
     __version__ = 1.1
     __date__ = Mar 23, 2022
@@ -109,7 +107,6 @@ class New_Head(nn.Module):
         out = torch.cat(out, 1)
 
         return out
-
 
 
 
@@ -235,3 +232,4 @@ class Efficient_Yolo(Yolo_Frame):
             anchor_sizes.append(anchors)
 
         return anchor_sizes
+

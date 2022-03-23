@@ -77,3 +77,4 @@ class RetinaNet_Res2Net_PAN(RetinaNet_Frame):
 
         if pretrained:
             load_pretrained(self, 'retinanet_' + mode + '_pan')
+
