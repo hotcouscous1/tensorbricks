@@ -1,5 +1,5 @@
-# TensorBricks
-PyTorch-based framework for high-level development of convolutional models  
+# TensorBricks : Toward Structuralism in Deep-Learning
+PyTorch-based framework for high-level development of image models  
 
 TensorBricks builds models up by various combinations of compatible modules, beyond a collection of implementations.  
 
@@ -84,6 +84,7 @@ model.fpn = fpn
 
 *Holy cow! Now you get EfficientNet-BiFPN-YoloV4.*  
 
+(This is not Efficient-Yolo)
 
 ## Now We Are Supporting
 Now, we are supporting clasification models and one-stage detection models using anchors.  
@@ -127,6 +128,11 @@ Now, we are supporting clasification models and one-stage detection models using
 * RetinaNet - https://arxiv.org/abs/1708.02002
 * EfficientDet -https://arxiv.org/abs/1911.09070
 
+### New Model
+* Efficient-Yolo
+* RetinaNet-Res2Net-PAN
+* SSDLite-ReXNet-BiFPN
+
 We are developing training and inference frameworks applicable to every models.  
 
 More image models such as vision transformers, two-stage detection models and non-anchor detection models, segmentation models, will be updated.  
@@ -143,6 +149,11 @@ TensorBricks' own-trained checkpoints will be released in the near future.
 ### Ver. 1.0
 * Mar 7, 2022
 * Start Uploading
+
+### Ver. 1.1
+* Mar 23, 2022
+* Upload Efficient-Yolo / RetinaNet-Res2Net-PAN / SSDLite-ReXNet-BiFPN
+
 
 ## License
 This TensorBricks distribution contains no code licensed under GPL or other kinds of CopyLeft license. It is licensed under BSD-3-Clause which is permissive.
